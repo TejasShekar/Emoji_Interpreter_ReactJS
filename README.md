@@ -1,2 +1,2 @@
-# neogcamp-markEight
-Created with CodeSandbox
+# EightEmoji Interpreter
+Know the meaning of the face emojis
