@@ -51,7 +51,7 @@ export default function App() {
     <div className="App">
       <h1>Emoji Interpreter</h1>
       <input onChange={emojiInputHandler} />
-      <h2>{" "} {meaning} </h2>
+      <h2> {meaning} </h2>
       <div>
         {emojisList.map(function (emoji) {
           return (
