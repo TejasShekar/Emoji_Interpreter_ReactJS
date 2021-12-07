@@ -21,7 +21,6 @@ const emojiDictionary = {
   "🤙": "Call Me Hand",
   "👍": "Thumbs Up / OK",
   "👎": "Thumbs Down / Not OK",
-  "👊": "Oncoming Fist",
   "👏": "Clapping Hands",
   "🙌": "High-Five",
   "🤝": "Handshake",
