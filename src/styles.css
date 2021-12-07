@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@700&display=swap");
+
+.App {
+  font-family: "Fuzzy Bubbles", cursive;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 3rem;
+}
+input {
+  border-radius: 1rem;
+  padding: 0.5rem 3rem;
+}
+
+div {
+  width: 90%;
+  margin: auto;
+}
+span {
+  font-size: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+#portfolio {
+  text-decoration: none;
+  color: rgb(230, 173, 30);
+  font-size: medium;
+  font-weight: bold;
+  background-color: none;
+}
