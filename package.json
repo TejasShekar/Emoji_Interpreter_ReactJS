@@ -1,7 +1,7 @@
 {
   "name": "emoji-interpreter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Know the meaning of the several face and hand emojis that you use daily.\r Check it out !\r Link in the about section.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -24,5 +24,15 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TejasShekar/neogcamp-markEight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TejasShekar/neogcamp-markEight/issues"
+  },
+  "homepage": "https://github.com/TejasShekar/neogcamp-markEight#readme"
 }
