@@ -49,7 +49,7 @@ export default function App() {
         Made by
         <a
           id="portfolio"
-          href="https://portfolio-of-tejas.netlify.app"
+          href="https://tejasshekar.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
